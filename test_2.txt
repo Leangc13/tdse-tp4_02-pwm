@@ -1,0 +1,6 @@
+Actividad 2:
+- test 2: 
+
+El periodo de la señal varia, y el periodo y la frecuencia se modifican, lo que se no se modifica es el duty cycle de la señal que es del 50%. 
+
+A diferencia del test 1 es imperceptible la variación en la intensidad del LED.
